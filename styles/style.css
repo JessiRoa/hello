@@ -1,0 +1,31 @@
+header {
+    background: pink;
+    color: black;
+}
+
+.main {
+    background: hotpink;
+}
+
+.color1 {
+    background: green;
+    color: black;
+}
+
+aside {
+    background: lawngreen;
+    color: black;
+}
+
+footer {
+    background: lightcoral;
+    color: black;
+}
+
+.knapp {
+    color: green;
+}
+
+.jessica-marginTop {
+    margin-top: 20px;
+}
